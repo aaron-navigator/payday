@@ -1,11 +1,11 @@
 #!/usr/bin/python
 import time
 
-today = time.strftime("%x")
-payday = '11/30/15'
+today = time.strftime("%d")
 
-Drunk = 'cult classic?'
-if today == payday:
-        print 'payday in full effect'
+NotPayday = "Depressed "
+Drunk = 'cult classic'
+if today == 30 or today == 15:
+        print 'Payday in full effect. You better be '+Drunk
 else:
-        print Drunk
+        print NotPayday + Drunk
