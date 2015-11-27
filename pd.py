@@ -3,7 +3,6 @@ import time
 
 today = time.strftime("%d")
 
-
 NotPayday = "Depressed "
 Drunk = 'cult classic'
 if today == 30 or today == 15:
