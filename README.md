@@ -1,3 +1,7 @@
+The custom script payday, has been taken over by D0t1q, all future expansions on this project will be contained within this Repo. 
+
+A special thank you to PartyPoster(https://github.com/PartyPoster) for the inital creation of this project and handing over the reins to me. 
+
 # payday
 
 Created on a work day, not a pay day.
